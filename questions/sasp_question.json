@@ -1,0 +1,69 @@
+{
+    "ooc": {
+        "q0": {
+            "title": "Imię",
+            "length": "short",
+            "type": "text"
+        },
+        "q1": {
+            "title": "Wiek",
+            "length": "short",
+            "type": "number"
+        },
+        "q2": {
+            "title": "Opisz swoje doświadczenie",
+            "length": "short",
+            "type": "long"
+        },
+        "q3": {
+            "title": "Jak oceniasz swoje umiejętności jako policjant",
+            "length": "short",
+            "type": "text"
+        },
+        "q4": {
+            "title": "Dlaczego chcesz dołączyć do SASP",
+            "length": "short",
+            "type": "text"
+        },
+        "q5": {
+            "title": "Ile średnio możesz dziennie poświęcić czaszu na grę",
+            "length": "short",
+            "type": "text"
+        },
+        "q6": {
+            "title": "Dlaczego mamy wybrać akurat ciebie",
+            "length": "long"
+        },
+        "q7": {
+            "title": "Którka historia postaci",
+            "length": "long"
+        }
+    },
+    "ic": {
+        "q0": {
+            "title": "Imię i nazwisko",
+            "length": "short",
+            "type": "text"
+        },
+        "q1": {
+            "title": "Wiek",
+            "length": "short",
+            "type": "number"
+        },
+        "q2": {
+            "title": "Czy byłeś karany",
+            "length": "short",
+            "type": "text"
+        },
+        "q3": {
+            "title": "Czy posiadasz prawo jazdy ( kat. B )",
+            "length": "short",
+            "type": "text"
+        },
+        "q4": {
+            "title": "Rozwiń skrót SASP",
+            "length": "short",
+            "type": "text"
+        }
+    }
+}

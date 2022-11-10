@@ -1,0 +1,65 @@
+{
+    "lang": "pl.json",
+
+    "server_icon": "https://cdn.discordapp.com/attachments/726365506495447042/1005438050354077776/png.png",
+    "comment0": "Ikona twojego sererwa. Wymagany link http/https / Icon of your server. Http / https link required",
+
+    "server_name": "YP1",
+    "comment1": "^ Nazwa twojego serwra / Name of your server",
+
+    "about_us": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, quasi ipsam nihil atque minus vel. Amet, explicabo eligendi. Nihil porro odio expedita! Consequuntur pariatur ad recusandae temporibus ullam iure eos?",
+    "comment2": "^ Tekst o nas, który wyświetla się na stronie główniej / Text about us, who showing on main site",
+
+    "discord": "https://discord.gg/XXX",
+    "comment3": "^ Link do twojego serwera discord / Link to your discord server",
+
+    "donate": "https://patronite/XXX",
+    "comment4": "Link do serwisów tj. Paypal lub Patronite / Link to services like Paypal or Patronite",
+
+    "description": "Polski serwer RolePlay na, którym stawiamy na imersjię oraz dobrze odgrywane akacje.",
+    "comment5": "Opis twoejgo serwera aby było lepsze SEO / Description of your server for better SEO",
+
+    "apps": {
+        "app1": {
+            "name": "sasp",
+            "title": "SASP",
+            "webhook": "webhooks/saspWebhook.php",
+            "questions_file": "sasp_question.json",
+            "embed_color": "0339fc",
+            "available": true
+        },
+        "app2": {
+            "name": "sams",
+            "title": "SAMS",
+            "webhook": "webhooks/samsWebhook.php",
+            "questions_file": "sams_question.json",
+            "embed_color": "ff0051",
+            "available": false
+        },
+        "app3": {
+            "name": "lscm",
+            "title": "LSCM",
+            "webhook": "webhooks/lscmWebhook.php",
+            "questions_file": "lscm_question.json",
+            "embed_color": "121212",
+            "available": true
+        },
+        "app4": {
+            "name": "trial_support",
+            "title": "Tral Support",
+            "webhook": "webhooks/trialWebhook.php",
+            "questions_file": "trial_question.json",
+            "embed_color": "7dcc37",
+            "available": true
+        },
+        "app5": {
+            "name": "wl_checker",
+            "title": "WhiteList Checker",
+            "webhook": "webhooks/checkerWebhook.php",
+            "questions_file": "wl_question.json",
+            "embed_color": "51e4f5",
+            "available": true
+        }
+    }
+
+}

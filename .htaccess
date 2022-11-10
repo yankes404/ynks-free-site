@@ -1,0 +1,9 @@
+
+RewriteEngine on
+RewriteRule home index.php
+RewriteRule rules rules.php
+RewriteRule thanks thanks.php
+RewriteRule profile dashboard/index.php
+RewriteRule apps dashboard/apps.php
+RewriteRule notlogged dashboard/notlogged.php
+

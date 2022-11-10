@@ -1,0 +1,22 @@
+{
+    "home": "Home",
+    "rules": "Rules",
+    "donate": "Donate",
+    "about_us": "About us",
+    "send_app": "Send",
+    "thank_you": "Thank you!",
+    "thank_p": "Thank you for sent your app, it will be considered soon!",
+    "thank_a": "Back to /",
+    "not_logged": "Sorry, you're not logged!",
+    "discord_id": "Discord ID",
+    "discord_username": "Discord Username",
+    "discord_tag": "Discord TAG",
+    "email_adress": "Email adress",
+    "navbar_collapse": "Collapse",
+    "navbar_profile": "Profile",
+    "navbar_apps": "Apps",
+    "dashboard": "Dashboard",
+    "logout": "Logout",
+    "login_by": "Login by",
+    "hello": "Hello"
+}

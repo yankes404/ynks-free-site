@@ -1,0 +1,25 @@
+{
+    "descripte": "W tym pliku możesz ustawić swój regulamin / In this file you can set your rules",
+    "rules": {
+        "l1": {
+            "label": "1. Ogólne",
+            "points": {
+                "p1": "Lorem Ipsum",
+                "p2": "Lorem Ipsum",
+                "p3": "Lorem Ipsum",
+                "p4": "Lorem Ipsum",
+                "p5": "Lorem Ipsum"
+            }
+        },
+        "l2": {
+            "label": "2. Limity",
+            "points": {
+                "p1": "Lorem Ipsum",
+                "p2": "Lorem Ipsum",
+                "p3": "Lorem Ipsum",
+                "p4": "Lorem Ipsum",
+                "p5": "Lorem Ipsum"
+            }
+        }
+    }
+}

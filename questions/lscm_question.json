@@ -1,0 +1,73 @@
+{
+    "ooc": {
+        "q0": {
+            "title": "Nick Discord wraz z tagiem",
+            "length": "short",
+            "type": "text"
+        },
+        "q1": {
+            "title": "Imię",
+            "length": "short",
+            "type": "text"
+        },
+        "q2": {
+            "title": "Wiek",
+            "length": "short",
+            "type": "number"
+        },
+        "q3": {
+            "title": "Opisz swoje doświadczenie",
+            "length": "long"
+        },
+        "q4": {
+            "title": "Jak oceniasz swoje umiejętności jako mechanik",
+            "length": "short",
+            "type": "text"
+        },
+        "q5": {
+            "title": "Dlaczego chcesz dołączyć do LSCM",
+            "length": "short",
+            "type": "text"
+        },
+        "q6": {
+            "title": "Ile średnio możesz dziennie poświęcić czaszu na grę",
+            "length": "short",
+            "type": "text"
+        },
+        "q7": {
+            "title": "Dlaczego mamy wybrać akurat ciebie",
+            "length": "long"
+        },
+        "q8": {
+            "title": "Którka historia postaci",
+            "length": "long"
+        }
+    },
+    "ic": {
+        "q0": {
+            "title": "Imię i nazwisko",
+            "length": "short",
+            "type": "text"
+        },
+        "q1": {
+            "title": "Wiek",
+            "length": "short",
+            "type": "number"
+        },
+        "q2": {
+            "title": "Czy byłeś karany",
+            "length": "short",
+            "type": "text"
+        },
+        "q3": {
+            "title": "Czy posiadasz prawo jazdy ( kat. B )",
+            "length": "short",
+            "type": "text"
+        },
+        "q4": {
+            "title": "Rozwiń skrót LSCM",
+            "length": "short",
+            "type": "text"
+        }
+    }
+}
